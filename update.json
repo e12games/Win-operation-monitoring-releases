@@ -1,10 +1,18 @@
 {
   "formatVersion": 1,
   "agent": {
-    "latest": "0.1.1",
+    "latest": "0.1.2",
     "minSupported": "0.1.0",
     "channel": "stable",
     "releases": [
+      {
+        "version": "0.1.2",
+        "date": "2026-07-23",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.2/EOps-0.1.2-win64.zip",
+        "sha256": "6940ebe5be5dea4d3bf95debb8c41815fb982ecb41516c75e6703e792cc7dc6d",
+        "sizeBytes": 11751208,
+        "notes": "添加了新功能，并修复了已知BUG"
+      },
       {
         "version": "0.1.1",
         "date": "2026-07-23",
