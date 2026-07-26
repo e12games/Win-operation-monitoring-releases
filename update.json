@@ -1,170 +1,178 @@
 {
-    "formatVersion":  1,
-    "agent":  {
-                  "latest":  "0.1.23",
-                  "minSupported":  "0.1.0",
-                  "channel":  "stable",
-                  "releases":  [
-                                   {
-                                       "version":  "0.1.23",
-                                       "date":  "2026-07-26",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.23/EOps-0.1.23-win64.zip",
-                                       "sha256":  "243367f368d36953704b9434bf83adbad9d2db2102718e79dca574787c945f7e",
-                                       "sizeBytes":  31145938,
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.22",
-                                       "date":  "2026-07-26",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.22/EOps-0.1.22-win64.zip",
-                                       "sha256":  "228edaf951409c7d3cdf7b098fbb3d106153bb96ba4b35b8558ec98cd88c963c",
-                                       "sizeBytes":  31132968,
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.21",
-                                       "sha256":  "31d138e9df9b84abcd19c905b4bf689fd8d36942d69081520debb8b2d631d119",
-                                       "sizeBytes":  30513090,
-                                       "date":  "2026-07-26",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.21/EOps-0.1.21-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.20",
-                                       "sha256":  "5b61ca8a05e10458da7beb78ec664cb6143086833a111b08f4bd8530f1b44516",
-                                       "sizeBytes":  30513090,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.20/EOps-0.1.20-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.19",
-                                       "sha256":  "44a255589dcd9c5c88699fffd7f9b8e7f0262d041d35cacf3b3223133ec00ec9",
-                                       "sizeBytes":  30510857,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.19/EOps-0.1.19-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.18",
-                                       "sha256":  "3f4db877fbefd3a42c03742b5664faa4eb74b667261a72181dcb510fe7f15b22",
-                                       "sizeBytes":  30509621,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.18/EOps-0.1.18-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.17",
-                                       "sha256":  "48c4b429a3580b181c65fe9909d04418300aa37f6f60f8521d1fd6502f22c6a7",
-                                       "sizeBytes":  19770736,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.17/EOps-0.1.17-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.16",
-                                       "sha256":  "37ae58663e350ef3fdf295661103eb71661cd14a1703c2cfe2ff3db0b34d6351",
-                                       "sizeBytes":  19770246,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.16/EOps-0.1.16-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.14",
-                                       "sha256":  "9c3e3d40cc20c06f90f21f65a074783c64bbc5de2fe8ba5c311bb9b26b4cbc35",
-                                       "sizeBytes":  18575984,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.14/EOps-0.1.14-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.13",
-                                       "sha256":  "3a4da68deda8bf0fb4bdc7b7196d327ffc2a70431c9caad3dcbec1a11651f895",
-                                       "sizeBytes":  12623250,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.13/EOps-0.1.13-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.10",
-                                       "sha256":  "9a229b492e68a5c47ad2e1f86ce2d12b42da87a41ea55c75105eba5d009ee587",
-                                       "sizeBytes":  12561651,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.10/EOps-0.1.10-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.9",
-                                       "sha256":  "4c418898e4cc25f248e9f6a01a816faa2778f4557b1e3488e03686aa5e0921ac",
-                                       "sizeBytes":  12556556,
-                                       "date":  "2026-07-25",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.9/EOps-0.1.9-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.8",
-                                       "sha256":  "81480bba144eb181defd4a07a12cda02806df5b1ec46215b4e396d7d98bbd661",
-                                       "sizeBytes":  12542976,
-                                       "date":  "2026-07-24",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.8/EOps-0.1.8-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.7",
-                                       "sha256":  "b8fac42f198b2a5340c152d06a0d5b5f16b3a3f3f9bd28aabe70731fcee214b5",
-                                       "sizeBytes":  12537549,
-                                       "date":  "2026-07-24",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.7/EOps-0.1.7-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.6",
-                                       "sha256":  "35ab95fdeee8e2af8b0e3e5be1163e39f27650b008ee2b6345b348b4b0b7f1da",
-                                       "sizeBytes":  12520995,
-                                       "date":  "2026-07-24",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.6/EOps-0.1.6-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.5",
-                                       "sha256":  "994abae98f7eeb5a9add3b57ef7f4282aa2faeca766a8b1b4173ee9b8d76b5f4",
-                                       "sizeBytes":  12366453,
-                                       "date":  "2026-07-24",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.5/EOps-0.1.5-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.4",
-                                       "sha256":  "fe5d118efaa04d01b5cb0f9acf444fe2558910309a7431154418b72429e81868",
-                                       "sizeBytes":  12330042,
-                                       "date":  "2026-07-24",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.4/EOps-0.1.4-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.3",
-                                       "sha256":  "65238a6ae543712f3cbb6e51814e8a326f1924b0ec56894478b878fc3443b4ca",
-                                       "sizeBytes":  11751864,
-                                       "date":  "2026-07-24",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.3/EOps-0.1.3-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.2",
-                                       "sha256":  "6940ebe5be5dea4d3bf95debb8c41815fb982ecb41516c75e6703e792cc7dc6d",
-                                       "sizeBytes":  11751208,
-                                       "date":  "2026-07-23",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.2/EOps-0.1.2-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   },
-                                   {
-                                       "version":  "0.1.1",
-                                       "sha256":  "082a5ea47acfc84362359d09d9cc06703cedd8f339d7504f03b6518d686b9a99",
-                                       "sizeBytes":  11750677,
-                                       "date":  "2026-07-23",
-                                       "url":  "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.1/EOps-0.1.1-win64.zip",
-                                       "notes":  "添加了新功能，并修复了已知BUG"
-                                   }
-                               ]
-              }
+  "formatVersion": 1,
+  "agent": {
+    "latest": "0.1.24",
+    "minSupported": "0.1.0",
+    "channel": "stable",
+    "releases": [
+      {
+        "version": "0.1.24",
+        "date": "2026-07-27",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.24/EOps-0.1.24-win64.zip",
+        "sha256": "b7b548892fff9c700e79e6b95f745aacff26d3ad12bcc98f562cec9dff7275de",
+        "sizeBytes": 30526825,
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.23",
+        "date": "2026-07-26",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.23/EOps-0.1.23-win64.zip",
+        "sha256": "243367f368d36953704b9434bf83adbad9d2db2102718e79dca574787c945f7e",
+        "sizeBytes": 31145938,
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.22",
+        "date": "2026-07-26",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.22/EOps-0.1.22-win64.zip",
+        "sha256": "228edaf951409c7d3cdf7b098fbb3d106153bb96ba4b35b8558ec98cd88c963c",
+        "sizeBytes": 31132968,
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.21",
+        "sha256": "31d138e9df9b84abcd19c905b4bf689fd8d36942d69081520debb8b2d631d119",
+        "sizeBytes": 30513090,
+        "date": "2026-07-26",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.21/EOps-0.1.21-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.20",
+        "sha256": "5b61ca8a05e10458da7beb78ec664cb6143086833a111b08f4bd8530f1b44516",
+        "sizeBytes": 30513090,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.20/EOps-0.1.20-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.19",
+        "sha256": "44a255589dcd9c5c88699fffd7f9b8e7f0262d041d35cacf3b3223133ec00ec9",
+        "sizeBytes": 30510857,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.19/EOps-0.1.19-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.18",
+        "sha256": "3f4db877fbefd3a42c03742b5664faa4eb74b667261a72181dcb510fe7f15b22",
+        "sizeBytes": 30509621,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.18/EOps-0.1.18-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.17",
+        "sha256": "48c4b429a3580b181c65fe9909d04418300aa37f6f60f8521d1fd6502f22c6a7",
+        "sizeBytes": 19770736,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.17/EOps-0.1.17-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.16",
+        "sha256": "37ae58663e350ef3fdf295661103eb71661cd14a1703c2cfe2ff3db0b34d6351",
+        "sizeBytes": 19770246,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.16/EOps-0.1.16-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.14",
+        "sha256": "9c3e3d40cc20c06f90f21f65a074783c64bbc5de2fe8ba5c311bb9b26b4cbc35",
+        "sizeBytes": 18575984,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.14/EOps-0.1.14-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.13",
+        "sha256": "3a4da68deda8bf0fb4bdc7b7196d327ffc2a70431c9caad3dcbec1a11651f895",
+        "sizeBytes": 12623250,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.13/EOps-0.1.13-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.10",
+        "sha256": "9a229b492e68a5c47ad2e1f86ce2d12b42da87a41ea55c75105eba5d009ee587",
+        "sizeBytes": 12561651,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.10/EOps-0.1.10-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.9",
+        "sha256": "4c418898e4cc25f248e9f6a01a816faa2778f4557b1e3488e03686aa5e0921ac",
+        "sizeBytes": 12556556,
+        "date": "2026-07-25",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.9/EOps-0.1.9-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.8",
+        "sha256": "81480bba144eb181defd4a07a12cda02806df5b1ec46215b4e396d7d98bbd661",
+        "sizeBytes": 12542976,
+        "date": "2026-07-24",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.8/EOps-0.1.8-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.7",
+        "sha256": "b8fac42f198b2a5340c152d06a0d5b5f16b3a3f3f9bd28aabe70731fcee214b5",
+        "sizeBytes": 12537549,
+        "date": "2026-07-24",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.7/EOps-0.1.7-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.6",
+        "sha256": "35ab95fdeee8e2af8b0e3e5be1163e39f27650b008ee2b6345b348b4b0b7f1da",
+        "sizeBytes": 12520995,
+        "date": "2026-07-24",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.6/EOps-0.1.6-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.5",
+        "sha256": "994abae98f7eeb5a9add3b57ef7f4282aa2faeca766a8b1b4173ee9b8d76b5f4",
+        "sizeBytes": 12366453,
+        "date": "2026-07-24",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.5/EOps-0.1.5-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.4",
+        "sha256": "fe5d118efaa04d01b5cb0f9acf444fe2558910309a7431154418b72429e81868",
+        "sizeBytes": 12330042,
+        "date": "2026-07-24",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.4/EOps-0.1.4-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.3",
+        "sha256": "65238a6ae543712f3cbb6e51814e8a326f1924b0ec56894478b878fc3443b4ca",
+        "sizeBytes": 11751864,
+        "date": "2026-07-24",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.3/EOps-0.1.3-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.2",
+        "sha256": "6940ebe5be5dea4d3bf95debb8c41815fb982ecb41516c75e6703e792cc7dc6d",
+        "sizeBytes": 11751208,
+        "date": "2026-07-23",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.2/EOps-0.1.2-win64.zip",
+        "notes": "?????????????BUG"
+      },
+      {
+        "version": "0.1.1",
+        "sha256": "082a5ea47acfc84362359d09d9cc06703cedd8f339d7504f03b6518d686b9a99",
+        "sizeBytes": 11750677,
+        "date": "2026-07-23",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.1/EOps-0.1.1-win64.zip",
+        "notes": "?????????????BUG"
+      }
+    ]
+  }
 }
