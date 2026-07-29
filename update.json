@@ -197,5 +197,21 @@
         "notes": "添加了新功能，并修复了已知BUG"
       }
     ]
+  },
+  "agentAssist": {
+    "latest": "0.1.1",
+    "minSupported": "0.1.0",
+    "channel": "stable",
+    "minVersion": "0.0.0",
+    "releases": [
+      {
+        "version": "0.1.1",
+        "date": "2026-07-30",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.1-assist/EOpsAssist-0.1.1-win64.zip",
+        "sha256": "f44e24c4956bcdd6bf9eef88be3a6b20fcb84ac75c5a9fb706a5603f61f0574e",
+        "sizeBytes": 438163,
+        "notes": "添加了新功能，并修复了已知BUG"
+      }
+    ]
   }
 }
