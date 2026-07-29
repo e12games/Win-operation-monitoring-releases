@@ -176,10 +176,18 @@
     ]
   },
   "agentLite": {
-    "latest": "0.1.1",
+    "latest": "0.1.2",
     "minSupported": "0.1.0",
     "channel": "stable",
     "releases": [
+      {
+        "version": "0.1.2",
+        "date": "2026-07-30",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.2-lite/EOpsLite-0.1.2-win64.zip",
+        "sha256": "808eea487f2591cfe891d2e1fcb387cfe99b22a028579ffbcd414b800446746c",
+        "sizeBytes": 11751449,
+        "notes": "添加了新功能，并修复了已知BUG"
+      },
       {
         "version": "0.1.1",
         "date": "2026-07-27",
