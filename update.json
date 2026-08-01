@@ -1,10 +1,18 @@
 {
   "formatVersion": 1,
   "agent": {
-    "latest": "0.1.24",
+    "latest": "0.1.25",
     "minSupported": "0.1.0",
     "channel": "stable",
     "releases": [
+      {
+        "version": "0.1.25",
+        "date": "2026-08-01",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.25/EOps-0.1.25-win64.zip",
+        "sha256": "5faf70a2b6a2c3d6bf5bf63d1908daa3d3ee1479355678abe2d107a3764058ee",
+        "sizeBytes": 32810267,
+        "notes": "客户添加了新功能，并修复了已知BUG"
+      },
       {
         "version": "0.1.24",
         "date": "2026-07-27",
@@ -199,11 +207,19 @@
     ]
   },
   "agentAssist": {
-    "latest": "0.1.1",
+    "latest": "0.1.3",
     "minSupported": "0.1.0",
     "channel": "stable",
     "minVersion": "0.0.0",
     "releases": [
+      {
+        "version": "0.1.3",
+        "date": "2026-08-01",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.3-assist/EOpsAssist-0.1.3-win64.zip",
+        "sha256": "279dc1532033186808efedbf8ac79f10fb5691158c16476aaed02aae46c0b105",
+        "sizeBytes": 1344697,
+        "notes": "客户添加了新功能，并修复了已知BUG"
+      },
       {
         "version": "0.1.1",
         "date": "2026-07-30",
