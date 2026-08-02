@@ -247,11 +247,19 @@
     ]
   },
   "agentAssist": {
-    "latest": "0.1.4",
+    "latest": "0.1.5",
     "minSupported": "0.1.0",
     "channel": "stable",
     "minVersion": "0.0.0",
     "releases": [
+      {
+        "version": "0.1.5",
+        "date": "2026-08-02",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.5-assist/EOpsAssist-0.1.5-win64.zip",
+        "sha256": "285c7bb9bca9238820e9bf595395186f3aa353532f37d73defc214fa069182b7",
+        "sizeBytes": 1350343,
+        "notes": "修复模块已装状态：按 ModuleHost 实况上报 running；安装写入版本文件，避免 UI 恒为 running=no / v=-"
+      },
       {
         "version": "0.1.4",
         "date": "2026-08-02",
