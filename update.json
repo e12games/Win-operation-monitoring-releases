@@ -216,10 +216,18 @@
     ]
   },
   "agentLite": {
-    "latest": "0.1.4",
+    "latest": "0.1.6",
     "minSupported": "0.1.0",
     "channel": "stable",
     "releases": [
+      {
+        "version": "0.1.6",
+        "date": "2026-09-10",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.6-lite/EOpsLite-0.1.6-win64.zip",
+        "sha256": "08e35fbc6c46662104c06fefa7ec271ad0b68a3f510c2785dea62eb54d326df4",
+        "sizeBytes": 12478634,
+        "notes": "稳卖：安装前停 Host、下载重试、Host 空闲自愈、模块失败 errorCode/stage；仍支持 connection.json 专属包。"
+      },
       {
         "version": "0.1.4",
         "date": "2026-08-02",
