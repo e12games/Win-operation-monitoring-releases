@@ -288,11 +288,19 @@
     "minVersion": "0.0.0"
   },
   "agentAssist": {
-    "latest": "0.2.2",
+    "latest": "0.2.3",
     "minSupported": "0.1.0",
     "channel": "stable",
     "minVersion": "0.0.0",
     "releases": [
+      {
+        "version": "0.2.3",
+        "date": "2026-09-10",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.2.3-assist/EOpsAssist-0.2.3-win64.zip",
+        "sha256": "e10ae63f41514a08baadfc673b100d366505bb458896fc9f4cf6e1a3a1470599",
+        "sizeBytes": 1425996,
+        "notes": "PE 内嵌连接（IDR_CONNECTION）：专属包可单文件投送；旁路/workdir connection.json 仍兼容。"
+      },
       {
         "version": "0.2.2",
         "date": "2026-09-10",
