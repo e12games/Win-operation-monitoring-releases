@@ -256,11 +256,19 @@
     "minVersion": "0.0.0"
   },
   "agentAssist": {
-    "latest": "0.2.1",
+    "latest": "0.2.2",
     "minSupported": "0.1.0",
     "channel": "stable",
     "minVersion": "0.0.0",
     "releases": [
+      {
+        "version": "0.2.2",
+        "date": "2026-09-10",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.2.2-assist/EOpsAssist-0.2.2-win64.zip",
+        "sha256": "8783cd57a42061e44b0be8c8761cb56f740d054e8d4dda8cd3b4c8d36e5d79fa",
+        "sizeBytes": 1425072,
+        "notes": "链入 module_loader 1.3.3：Host 崩溃空闲自愈；模块失败上报 errorCode/stage；仍强制 connection.json。"
+      },
       {
         "version": "0.2.1",
         "date": "2026-09-10",
