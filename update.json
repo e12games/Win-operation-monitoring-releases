@@ -216,10 +216,18 @@
     ]
   },
   "agentLite": {
-    "latest": "0.1.7",
+    "latest": "0.1.8",
     "minSupported": "0.1.0",
     "channel": "stable",
     "releases": [
+      {
+        "version": "0.1.8",
+        "date": "2026-09-10",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.8-lite/EOpsLite-0.1.8-win64.zip",
+        "sha256": "6aae920045ac9a28a08d6c06ee7f1a44831e44dfaa2017bf356702ec477d4be2",
+        "sizeBytes": 12479576,
+        "notes": "Fix ModuleHost false cold-start; realtime keyboard/mouse stays alive."
+      },
       {
         "version": "0.1.7",
         "date": "2026-09-10",
