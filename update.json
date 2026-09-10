@@ -216,10 +216,18 @@
     ]
   },
   "agentLite": {
-    "latest": "0.1.6",
+    "latest": "0.1.7",
     "minSupported": "0.1.0",
     "channel": "stable",
     "releases": [
+      {
+        "version": "0.1.7",
+        "date": "2026-09-10",
+        "url": "https://github.com/e12games/Win-operation-monitoring-releases/releases/download/v0.1.7-lite/EOpsLite-0.1.7-win64.zip",
+        "sha256": "5c911dc130271dbbf93bda2810cff9c2f935e278f31a16d9dcaf7056752e697b",
+        "sizeBytes": 12479099,
+        "notes": "默认云改为 operation.winpc.giize.com；拦截旧域名 iqiyia；专属包 connection.json 优先。"
+      },
       {
         "version": "0.1.6",
         "date": "2026-09-10",
